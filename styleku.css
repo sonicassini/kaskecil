@@ -1,0 +1,83 @@
+	.formisian {
+		width: 350px;
+		border: 1px solid silver;
+		background: #ssoonn;
+		padding: 5px;
+		margin: 40px auto;
+		box-shadow: 10px 10px 10px blue;
+		border-radius: 10px;
+	}
+	.formisian input {
+		border-radius: 5px;
+		height: 30px;
+		font-weight: bold;
+	}
+
+.tableheader{
+	background:#CCCCFF;
+	color:#FF6666;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	height:30px;
+}
+	
+#column_padding{
+	padding-left:2%;
+}
+		
+td a {
+	text-decoration:none;
+	color:#0033CC;
+	/8text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+}
+	
+td a:hover{
+	color:yellow;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+	
+#rowHover:hover {
+	background:#FF6666;;
+}
+		
+#removeborder{
+	border:0px;
+	height:35px;
+}
+		
+.form{
+	margin:0px;
+	margin-left:15px;
+}
+
+input[type="text"]{
+	width:95%;
+}
+
+input[type="radio"]{
+	width:20%;
+}
+
+.tableadd {
+	background:#CCCCCC;
+	padding:20px;
+	border:solid 1px;
+}
+
+#berhasil {
+	width:20%;
+	background:#009933;
+	color:#fff;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#row_button {
+	
+}
+
+#button_tambah{
+	background:blue;
+	color:#FFFFFF;
+	padding:3px;
+	border:solid 1px yellow;
+	margin-left:1%;
+}

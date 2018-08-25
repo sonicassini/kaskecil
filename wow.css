@@ -1,0 +1,70 @@
+#wrap {
+	width:1000px;
+	margin:auto;
+	box-shadow:5px 5px 5px 5px grey;
+	border-radius:10px;
+	background-image:url(back2.jpg);
+}
+
+@font-face {
+	font-family: gabrielles;
+	scr:url(gabrielle.ttf);
+}
+#content {
+	width: 500px;
+	border: 1px solid white;
+	background: #ssoonn;
+	padding: 5px;
+	margin: 40px auto;
+	box-shadow: 10px 10px 10px silver;
+	border-radius: 10px;
+	color:silver;
+}
+#content td{
+	color:white;
+}
+#content input {
+	border-radius: 5px;
+	height: 30px;
+	font-weight: bold;
+	font-style: italic;
+	font-size:17px;
+}
+#tampil {
+	width: 800px;
+	border: 1px solid white;
+	background: #ssoonn;
+	padding: 5px;
+	margin: 40px auto;
+	box-shadow: 10px 10px 10px silver;
+	border-radius: 10px;
+	color:silver;
+}
+#tampil input{
+	border-radius: 5px;
+	height: 30px;
+	font-weight: bold;
+	font-style: italic;
+	font-size:17px;
+}
+#tampil th{
+	color:white;
+	
+}
+#tampil td{
+	font-size:25px;
+}
+#footer {
+	clear:both;
+	margin-top:50px;
+	margin-width:1000px;
+	height:80px;
+	background-color:lightgrey;
+	color:black;
+	display:block;
+	text-align:center;
+	padding:2px;
+	opacity: 0.4;
+	filter: alpha(opacity=40);
+}
+

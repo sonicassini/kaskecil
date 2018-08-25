@@ -1,0 +1,27 @@
+.genap{
+	background : #EEE8AA;
+}
+.ganjil{
+	background : #C0C0C0;
+}
+.genap:hover{
+	background : #EEE8AA;
+	color : white;
+	cursor : pointer;
+}
+.ganjil:hover{
+	background : #C0C0C0;
+	color : white;
+	cursor : pointer;
+}
+.grip{
+	width : 100%;
+	border-collapse : collapse;
+}
+.grip th{
+	background : yellow;
+}
+
+.jumlah{
+	background : #FFFFFF;
+}

@@ -1,0 +1,39 @@
+#kanan {
+	width:200px;
+	margin-top:30px;
+	min-height:510px;
+	position:relative;
+	display:block;
+	float:right;
+}
+#menu_vertikal {
+	position:absolute;
+	width:200px;
+	height:260px;
+	display:block;
+	border:1px solid black;
+	background-color:#FF6666;
+	color:silver;
+	line-height:30px;
+	text-align:center;
+}
+#menu_vertikal li {
+	list-style-type:none;
+	text-align:left
+}
+#menu_vertikal li a {
+	text-decoration:none;
+	widht:175px;
+	background-color:silver;
+	display:block;
+	border-top:1px solid black;
+	padding:.2em .8em;
+}
+#menu_vertikal ul {
+	padding:0px;
+	margin-top:8px;
+}
+#menu_vertikal li a:hover {
+	background-color:blue;
+	color:red;
+}
